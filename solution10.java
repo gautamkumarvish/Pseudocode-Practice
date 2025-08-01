@@ -11,3 +11,12 @@ public class solution10 {
         System.out.println(count);
     }
 }
+
+
+// count = 0
+// for i from 1 to 3:
+//     for j from 1 to 2:
+//         count = count + 1
+//     end for
+// end for
+// Print count
